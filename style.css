@@ -186,7 +186,7 @@ nav {
 /* ------------------ HERO SECTION ------------------ */
 .hero {
   height: 110vh;
-  background-image: url("c:/Users/IKRAM/Documents/PORTFOLIO/8.png"); /* 🔹 ضع هنا صورتك الخلفية */
+  background-image: url("8.png"); /* 🔹 ضع هنا صورتك الخلفية */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2447,3 +2447,4 @@ footer ul.social-links li a:hover {
         align-items: center;
     }
 }
+
